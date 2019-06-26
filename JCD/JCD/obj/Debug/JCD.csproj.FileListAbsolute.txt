@@ -1,0 +1,14 @@
+C:\Users\ayoubexo.CEBONGROUP\source\repos\JCD\JCD\obj\Debug\JCD.csprojAssemblyReference.cache
+C:\Users\ayoubexo.CEBONGROUP\source\repos\JCD\JCD\obj\Debug\JCD.Form1.resources
+C:\Users\ayoubexo.CEBONGROUP\source\repos\JCD\JCD\obj\Debug\JCD.Properties.Resources.resources
+C:\Users\ayoubexo.CEBONGROUP\source\repos\JCD\JCD\obj\Debug\JCD.csproj.GenerateResource.cache
+C:\Users\ayoubexo.CEBONGROUP\source\repos\JCD\JCD\obj\Debug\JCD.csproj.CoreCompileInputs.cache
+C:\Users\ayoubexo.CEBONGROUP\source\repos\JCD\JCD\bin\Debug\JCD.exe.config
+C:\Users\ayoubexo.CEBONGROUP\source\repos\JCD\JCD\bin\Debug\JCD.exe
+C:\Users\ayoubexo.CEBONGROUP\source\repos\JCD\JCD\bin\Debug\JCD.pdb
+C:\Users\ayoubexo.CEBONGROUP\source\repos\JCD\JCD\obj\Debug\JCD.exe
+C:\Users\ayoubexo.CEBONGROUP\source\repos\JCD\JCD\obj\Debug\JCD.pdb
+C:\Users\ayoubexo.CEBONGROUP\source\repos\JCD\JCD\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\ayoubexo.CEBONGROUP\source\repos\JCD\JCD\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\ayoubexo.CEBONGROUP\source\repos\JCD\JCD\obj\Debug\Interop.VBIDE.dll
+C:\Users\ayoubexo.CEBONGROUP\source\repos\JCD\JCD\obj\Debug\JCD.csproj.ResolveComReference.cache
